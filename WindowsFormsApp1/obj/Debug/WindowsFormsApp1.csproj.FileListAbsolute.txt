@@ -1,0 +1,10 @@
+E:\小程式\Rand\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\小程式\Rand\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\小程式\Rand\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FindFood.resources
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\小程式\Rand\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
